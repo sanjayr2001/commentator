@@ -15,7 +15,7 @@ With the rise of social media and publicly available data, opinion mining is mor
 
 ## To Run
 
-### 1. Open the Commentator - Multinomial Naive Bayes.ipynb file in Google Chrome
+### 1. Open the Commentator - Multinomial Naive Bayes.ipynb file in Google Collab
 
 ### 2. Upload the mod_train.txt, test.txt and train.txt files in Google Collab
 
