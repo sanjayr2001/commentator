@@ -1,9 +1,9 @@
 # YOUTUBE COMMENT ANALYSIS USING NATURAL LANGUAGE PROCESSING
 
 #### A PROJECT DONE BY  
-> ### 1. SANJAY KUMAR R 211418104172 [GitHub](https://github.com/sanjayr2001) [LinkedIN](https://www.linkedin.com/in/sanjayr2001/)
-> ### 2. PRABHU M       211418104192 [Mail](mailto:prabhumurugavel2000@gmail.com)
-> ### 3. KUMARESH P     211418104134 [Mail](mailto:kumareshp2001@gmail.com)
+> ### 1. SANJAY KUMAR R 211418104172 [GitHub](https://github.com/sanjayr2001) [LinkedIn](https://www.linkedin.com/in/sanjayr2001/)
+> ### 2. PRABHU M       211418104192 [Mail](mailto:prabhumurugavel2000@gmail.com) [LinkedIn](https://www.linkedin.com/in/prabhu-m-383291223/)
+> ### 3. KUMARESH P     211418104134 [Mail](mailto:kumareshp2001@gmail.com) [LinkedIn](https://www.linkedin.com/in/kumaresh-p-918911171/)
 
 #### for partial fulfilment for the award of the degree of  
 ### BACHELOR OF ENGINEERING in COMPUTER SCIENCE AND ENGINEERING  
@@ -21,7 +21,7 @@ With the rise of social media and publicly available data, opinion mining is mor
 
 ### 3. Select Runtime->Run all or Ctrl+F9
 
-### 4. Now enter the YouTube Video ID of the video for which analysis has to be done and press enter
+### 4. Now enter the YouTube Video ID of the video for which analysis has to be done and press Enter
 
 ### 5. Run the remaining modules in Google Collab to extract the predicted results of the model and to calculate Performance Parameters
 
