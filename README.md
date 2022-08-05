@@ -10,7 +10,7 @@
 ### PANIMALAR ENGINEERING COLLEGE
 ##### (An Autonomous Institution, Affiliated to Anna University, Chennai)  
 
-## ABSTRACT
+## Abstract
 With the rise of social media and publicly available data, opinion mining is more accessible than ever. It is valuable for content creators, companies and advertisers to gain insights into what users think and feel. Commentator (YouTube comment analysis using Natural Language Processing) examines comments on YouTube videos, and builds a Naive Bayes Classifier to automatically determine their sentiment. The Naive Bayes Classifier categorizes the sentiment into 6 categories of human emotions : Sad, Angry, Surprise, Fear, Happy and Love. The classification of comments into these categories expresses people’s opinions more accurately rather than classifying it as positive or negative comments. Based on analysis done by the Commentator for a video, viewers also can understand the nature of the video and also can prevent watching that particular video if they are not interested. Commentator also can spot promotion done by the content creators or the inaccurate facts mentioned by the content creators through the analysis of the YouTube Video Comments.
 
 ## To Run
@@ -35,5 +35,5 @@ git clone https://github.com/sanjayr2001/final_year_project.git
 cd final_year_project
 ```
 
-## DEMO
+## Demo
 Link : https://drive.google.com/file/d/1VVfPVa64bXTlbXTMocXnBQCS8eRbxOBM/view?usp=sharing
