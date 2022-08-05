@@ -28,7 +28,7 @@ With the rise of social media and publicly available data, opinion mining is mor
 ## Repo
 Link : https://github.com/sanjayr2001/final_year_project
 
-### To clone
+## To clone
 
 ```bash
 git clone https://github.com/sanjayr2001/final_year_project.git
